@@ -136,54 +136,57 @@ me.say_hi()
 ## Work Experience
 
 <table><tr>
-    <td style="vertical-align: top;">
-      <img src="./assets/employer/webstackbuilders.png" alt="employer logo">
+    <td>
+      <p align="top">
+        <img src="./assets/employer/webstackbuilders.png" alt="employer logo">
+        !["./assets/employer/webstackbuilders.png"]("Webstack Builders corporate logo")
+      </p>
     </td>
     <td>
       <b>Software Developer</b><br>
-      Webstack Builders • Freelance<br>
-      <p><strong>Languages &amp; Technologies:</strong> TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp/C++/libuv/V8)</p>
-
+      Webstack Builders<br>
+      Freelance • Remote<br>
+      <p><strong>Languages &amp; Technologies:</strong> TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp / C++ / libuv / V8)</p>
+<br>
     </td>
   </tr><tr>
-    <td style="vertical-align: top;">
-      <img src="./assets/employer/lilly.png" alt="employer logo">
+    <td>
+      <p align="top">
+        <img src="./assets/employer/lilly.png" alt="employer logo">
+        !["./assets/employer/lilly.png"]("Eli Lilly corporate logo")
+      </p>
     </td>
     <td>
       <b>System Analyst</b><br>
-      Eli Lilly • Full-Time<br>
+      Eli Lilly<br>
+      Full-Time • On-site<br>
       <p><strong>Languages &amp; Technologies:</strong> Microsoft Project, Microsoft Excel, SharePoint, .NET, C#</p>
-
+<br>
     </td>
   </tr><tr>
-    <td style="vertical-align: top;">
-      <img src="./assets/employer/alento.png" alt="employer logo">
+    <td>
+      <p align="top">
+        <img src="./assets/employer/alento.png" alt="employer logo">
+        !["./assets/employer/alento.png"]("Alento, Inc. corporate logo")
+      </p>
     </td>
     <td>
       <b>Infrastructure Engineer</b><br>
-      Alento, Inc. • Full-Time<br>
+      Alento, Inc.<br>
+      Full-Time • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> OpenStack, Docker, BGP, OSPF, VLAN, Cisco IOS, RHEL, Debian, KVM, QEMU, OpenBSD, Jenkins, BASH, Python, Nagios, Squid, Postfix, OpenLDAP, SOAP, gRPC</p>
-
+<br>
     </td>
   </tr></table>
 
 See [here](https://resume.webstackbuilders.com) for my detailed resume.
-
-## Activity
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 ## Projects and Dev Stuff
 
 <details>
   <summary><b>🛠️ My Favorite Tools</b></summary>
   <br>
-  <b>👨‍💻 Programming and Markup Languages</b><a href="https://github.com/search?q=user%3Awebstackdev+language%3AMIPS Assembly">
+  <b>👨‍💻 Programming and Markup Languages</b><br><a href="https://github.com/search?q=user%3Awebstackdev+language%3AMIPS Assembly">
     <img src="./assets/badges/assembly.svg" alt="MIPS Assembly">
   </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
     <img src="./assets/badges/bash.svg" alt="">
@@ -219,7 +222,15 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
     <img src="./assets/badges/typescript.svg" alt="">
   </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
     <img src="./assets/badges/mono.svg" alt="">
-  </a><b>🧰 Frameworks and Libraries</b><img src="./assets/badges/arduino.svg" alt=""><img src="./assets/badges/theia.svg" alt=""><img src="./assets/badges/reactnative.svg" alt=""><img src="./assets/badges/bootstrap.svg" alt=""><img src="./assets/badges/electron.svg" alt=""><img src="./assets/badges/expressjs.svg" alt=""><img src="./assets/badges/flask.svg" alt=""><img src="./assets/badges/githubactions.svg" alt=""><img src="./assets/badges/materialdesign.svg" alt=""><img src="./assets/badges/numpy.svg" alt=""><img src="./assets/badges/pandas.svg" alt=""><img src="./assets/badges/phpunit.svg" alt=""><img src="./assets/badges/pytest.svg" alt=""><img src="./assets/badges/react.svg" alt=""><img src="./assets/badges/slim.svg" alt=""><img src="./assets/badges/symfony.svg" alt=""><img src="./assets/badges/tensorflow.svg" alt=""><img src="./assets/badges/laravel.svg" alt=""><img src="./assets/badges/porteusos.svg" alt=""><b>☁️ Cloud Hosting</b><img src="./assets/badges/githubpages.svg" alt=""><img src="./assets/badges/heroku.svg" alt=""><img src="./assets/badges/vercel.svg" alt=""><img src="./assets/badges/netlify.svg" alt=""><img src="./assets/badges/aws.svg" alt=""><img src="./assets/badges/openstack.svg" alt=""><img src="./assets/badges/kubernetes.svg" alt=""><b>🗄️ Databases</b><img src="./assets/badges/mongodb.svg" alt=""><img src="./assets/badges/mysql.svg" alt=""><img src="./assets/badges/postgresql.svg" alt=""><img src="./assets/badges/sqlite.svg" alt=""><img src="./assets/badges/neo4j.svg" alt=""><b>💻 Software and Tools</b><img src="./assets/badges/adobe.svg" alt=""><img src="./assets/badges/android.svg" alt=""><img src="./assets/badges/androidstudio.svg" alt=""><img src="./assets/badges/archlinux.svg" alt=""><img src="./assets/badges/discord.svg" alt=""><img src="./assets/badges/git.svg" alt=""><img src="./assets/badges/githubdesktop.svg" alt=""><img src="./assets/badges/inkscape.svg" alt=""><img src="./assets/badges/jupyter.svg" alt=""><img src="./assets/badges/obsstudio.svg" alt=""><img src="./assets/badges/stackoverflow.svg" alt=""><img src="./assets/badges/visualstudiocode.svg" alt=""><img src="./assets/badges/debian.svg" alt="">
+  </a><br>
+
+<b>🧰 Frameworks and Libraries</b><br><img src="./assets/badges/arduino.svg" alt=""><img src="./assets/badges/theia.svg" alt=""><img src="./assets/badges/reactnative.svg" alt=""><img src="./assets/badges/bootstrap.svg" alt=""><img src="./assets/badges/electron.svg" alt=""><img src="./assets/badges/expressjs.svg" alt=""><img src="./assets/badges/flask.svg" alt=""><img src="./assets/badges/githubactions.svg" alt=""><img src="./assets/badges/materialdesign.svg" alt=""><img src="./assets/badges/numpy.svg" alt=""><img src="./assets/badges/pandas.svg" alt=""><img src="./assets/badges/phpunit.svg" alt=""><img src="./assets/badges/pytest.svg" alt=""><img src="./assets/badges/react.svg" alt=""><img src="./assets/badges/slim.svg" alt=""><img src="./assets/badges/symfony.svg" alt=""><img src="./assets/badges/tensorflow.svg" alt=""><img src="./assets/badges/laravel.svg" alt=""><img src="./assets/badges/porteusos.svg" alt=""><br>
+
+<b>☁️ Cloud Hosting</b><br><img src="./assets/badges/githubpages.svg" alt=""><img src="./assets/badges/heroku.svg" alt=""><img src="./assets/badges/vercel.svg" alt=""><img src="./assets/badges/netlify.svg" alt=""><img src="./assets/badges/aws.svg" alt=""><img src="./assets/badges/openstack.svg" alt=""><img src="./assets/badges/kubernetes.svg" alt=""><br>
+
+<b>🗄️ Databases</b><br><img src="./assets/badges/mongodb.svg" alt=""><img src="./assets/badges/mysql.svg" alt=""><img src="./assets/badges/postgresql.svg" alt=""><img src="./assets/badges/sqlite.svg" alt=""><img src="./assets/badges/neo4j.svg" alt=""><br>
+
+<b>💻 Software and Tools</b><br><img src="./assets/badges/adobe.svg" alt=""><img src="./assets/badges/android.svg" alt=""><img src="./assets/badges/androidstudio.svg" alt=""><img src="./assets/badges/archlinux.svg" alt=""><img src="./assets/badges/discord.svg" alt=""><img src="./assets/badges/git.svg" alt=""><img src="./assets/badges/githubdesktop.svg" alt=""><img src="./assets/badges/inkscape.svg" alt=""><img src="./assets/badges/jupyter.svg" alt=""><img src="./assets/badges/obsstudio.svg" alt=""><img src="./assets/badges/stackoverflow.svg" alt=""><img src="./assets/badges/visualstudiocode.svg" alt=""><img src="./assets/badges/debian.svg" alt=""><br>
 </details>
 
 <details>
