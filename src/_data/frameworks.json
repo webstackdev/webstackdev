@@ -48,31 +48,27 @@
     "order": 12
   },
   {
-    "name": "Slim",
+    "name": "Symfony",
     "order": 13
   },
   {
-    "name": "Symfony",
+    "name": "TensorFlow",
     "order": 14
   },
   {
-    "name": "TensorFlow",
+    "name": "Laravel",
     "order": 15
   },
   {
-    "name": "Laravel",
+    "name": "Porteus OS",
     "order": 16
   },
   {
-    "name": "Porteus OS",
+    "name": "Theia",
     "order": 17
   },
   {
-    "name": "Theia",
-    "order": 1
-  },
-  {
     "name": "React Native",
-    "order": 1
+    "order": 18
   }
 ]

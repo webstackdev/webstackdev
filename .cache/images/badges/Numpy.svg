@@ -9,7 +9,7 @@
   </clipPath>
   <g clip-path="url(#r)">
     <rect width="0" height="20" fill="#555" />
-    <rect x="0" width="67" height="20" fill="#013243" />
+    <rect x="0" width="67" height="20" fill="#F1C232" />
     <rect width="67" height="20" fill="url(#s)" />
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">

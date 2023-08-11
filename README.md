@@ -146,7 +146,7 @@ me.say_hi()
       Webstack Builders<br>
       Freelance • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp / C++ / libuv / V8)</p>
-<br>
+
     </td>
   </tr><tr>
     <td>
@@ -159,7 +159,7 @@ me.say_hi()
       Eli Lilly<br>
       Full-Time • On-site<br>
       <p><strong>Languages &amp; Technologies:</strong> Microsoft Project, Microsoft Excel, SharePoint, .NET, C#</p>
-<br>
+
     </td>
   </tr><tr>
     <td>
@@ -172,16 +172,17 @@ me.say_hi()
       Alento, Inc.<br>
       Full-Time • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> OpenStack, Docker, BGP, OSPF, VLAN, Cisco IOS, RHEL, Debian, KVM, QEMU, OpenBSD, Jenkins, BASH, Python, Nagios, Squid, Postfix, OpenLDAP, SOAP, gRPC</p>
-<br>
+
     </td>
   </tr></table>
 
-See [here](https://resume.webstackbuilders.com) for my detailed resume.
+See [here](https://https://webstackbuilders.github.io) for my detailed resume.
 
 ## Projects and Dev Stuff
-
+<br><br>
 <details>
   <summary><b>🛠️ My Favorite Tools</b></summary>
+  <br>
   <b>👨‍💻 Programming and Markup Languages</b><br><a href="https://github.com/search?q=user%3Awebstackdev+language%3AAssembly&type=Repositories">
     <img src="./assets/badges/Assembly.svg" alt="Assembly">
   </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AShell&type=Repositories">
@@ -220,18 +221,18 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
     <img src="./assets/badges/Mono.svg" alt="Mono">
   </a><br>
 
-<b>🧰 Frameworks and Libraries</b><br><img src="./assets/badges/Arduino.svg" alt="Arduino"><img src="./assets/badges/Theia.svg" alt="Theia"><img src="./assets/badges/ReactNative.svg" alt="React Native"><img src="./assets/badges/Bootstrap.svg" alt="Bootstrap"><img src="./assets/badges/Electron.svg" alt="Electron"><img src="./assets/badges/ExpressJS.svg" alt="ExpressJS"><img src="./assets/badges/Flask.svg" alt="Flask"><img src="./assets/badges/GitHubActions.svg" alt="GitHub Actions"><img src="./assets/badges/MaterialDesign.svg" alt="Material Design"><img src="./assets/badges/NumPy.svg" alt="NumPy"><img src="./assets/badges/Pandas.svg" alt="Pandas"><img src="./assets/badges/PHPUnit.svg" alt="PHPUnit"><img src="./assets/badges/Pytest.svg" alt="Pytest"><img src="./assets/badges/React.svg" alt="React"><img src="./assets/badges/Slim.svg" alt="Slim"><img src="./assets/badges/Symfony.svg" alt="Symfony"><img src="./assets/badges/TensorFlow.svg" alt="TensorFlow"><img src="./assets/badges/Laravel.svg" alt="Laravel"><img src="./assets/badges/PorteusOS.svg" alt="Porteus OS"><br>
+<b>🧰 Frameworks and Libraries</b><br><img src="./assets/badges/Arduino.svg" alt="Arduino"><img src="./assets/badges/Bootstrap.svg" alt="Bootstrap"><img src="./assets/badges/Electron.svg" alt="Electron"><img src="./assets/badges/ExpressJS.svg" alt="ExpressJS"><img src="./assets/badges/Flask.svg" alt="Flask"><img src="./assets/badges/GitHubActions.svg" alt="GitHub Actions"><img src="./assets/badges/MaterialDesign.svg" alt="Material Design"><img src="./assets/badges/NumPy.svg" alt="NumPy"><img src="./assets/badges/Pandas.svg" alt="Pandas"><img src="./assets/badges/PHPUnit.svg" alt="PHPUnit"><img src="./assets/badges/Pytest.svg" alt="Pytest"><img src="./assets/badges/React.svg" alt="React"><img src="./assets/badges/Symfony.svg" alt="Symfony"><img src="./assets/badges/TensorFlow.svg" alt="TensorFlow"><img src="./assets/badges/Laravel.svg" alt="Laravel"><img src="./assets/badges/PorteusOS.svg" alt="Porteus OS"><img src="./assets/badges/Theia.svg" alt="Theia"><img src="./assets/badges/ReactNative.svg" alt="React Native"><br>
 
 <b>☁️ Cloud Hosting</b><br><img src="./assets/badges/GitHubPages.svg" alt="GitHub Pages"><img src="./assets/badges/Heroku.svg" alt="Heroku"><img src="./assets/badges/Vercel.svg" alt="Vercel"><img src="./assets/badges/Netlify.svg" alt="Netlify"><img src="./assets/badges/AWS.svg" alt="AWS"><img src="./assets/badges/OpenStack.svg" alt="OpenStack"><img src="./assets/badges/Kubernetes.svg" alt="Kubernetes"><br>
 
 <b>🗄️ Databases</b><br><img src="./assets/badges/MongoDB.svg" alt="MongoDB"><img src="./assets/badges/MySQL.svg" alt="MySQL"><img src="./assets/badges/PostgreSQL.svg" alt="PostgreSQL"><img src="./assets/badges/SQLite.svg" alt="SQLite"><img src="./assets/badges/Neo4j.svg" alt="Neo4j"><br>
 
 <b>💻 Software and Tools</b><br><img src="./assets/badges/Adobe.svg" alt="Adobe"><img src="./assets/badges/Android.svg" alt="Android"><img src="./assets/badges/AndroidStudio.svg" alt="Android Studio"><img src="./assets/badges/ArchLinux.svg" alt="Arch Linux"><img src="./assets/badges/Discord.svg" alt="Discord"><img src="./assets/badges/Git.svg" alt="Git"><img src="./assets/badges/GitHubDesktop.svg" alt="GitHub Desktop"><img src="./assets/badges/Inkscape.svg" alt="Inkscape"><img src="./assets/badges/Jupyter.svg" alt="Jupyter"><img src="./assets/badges/OBSStudio.svg" alt="OBS Studio"><img src="./assets/badges/StackOverflow.svg" alt="Stack Overflow"><img src="./assets/badges/VisualStudioCode.svg" alt="Visual Studio Code"><img src="./assets/badges/Debian.svg" alt="Debian"><br>
-  <br>
 </details>
-
+<br>
 <details>
   <summary><b>💻 Open Source Projects</b></summary>
+  <br>
   <table>
   <thead align="center">
     <tr border: none;>
@@ -265,11 +266,11 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
       </td>
     </tr></tbody>
 </table>
-  <br>
 </details>
-
+<br>
 <details>
   <summary><b>⚙️ Work Environment</b></summary>
+  <br>
   <ul>
   <li><b>OS:</b> Ubuntu 22.04 with VFIO (Windows 11 in VM)</li>
   <li><b>Workstation:</b> AMD 5700X X570 64 GB</li>
@@ -278,14 +279,13 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
   <li><b>Code Editor:</b> VSCode, Android Studio, and XCode</li>
   <li><b>Opinions:</b> Vim, two spaces, no semicolons, comments for docgen, patterns matter</li>
 </ul>
-  <br>
 </details>
 
 
 <details>
   <summary><b>🔒 PGP Public Key</b></summary>
+  <br>
   -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mQGNBGKt7yMBDADZp/bbs+qDPZwQmJ4pvOZv420LgYMJOrR1ZYmdPKy0rySUcdBU
 R62b0dWt0zQUQVOTyvvWHVpUkf8PXCwth0q5vvIr5U+X1Vd8/hTHF2S+6RDq05cj
 ZyrBuXMxkGfnvlkK/3LD5Qxb9kd+9pOmbXCyYT1PW5Pa9XF0LhWuLDPrIl3BBeCQ
