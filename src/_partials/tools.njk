@@ -1,8 +1,8 @@
 <b>👨‍💻 Programming and Markup Languages</b><br>
 
   {%- for languageCollection in collections.languageCollection -%}
-  <a href="https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ languageCollection.term }}">
-    <img src="./assets/badges/{{ languageCollection.name | normalizeFilename }}.svg" alt="{{ languageCollection.term }}">
+  <a href="https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ languageCollection.term }}&type=Repositories">
+    <img src="./assets/badges/{{ languageCollection.name | normalizeFilename }}.svg" alt="{{ languageCollection.name }}">
   </a>
   {%- endfor -%}
   <br>
@@ -10,27 +10,27 @@
 <b>🧰 Frameworks and Libraries</b><br>
 
   {%- for frameworksCollection in collections.frameworksCollection -%}
-  <img src="./assets/badges/{{ frameworksCollection.name | normalizeFilename }}.svg" alt="{{ frameworksCollection.term }}">
+  <img src="./assets/badges/{{ frameworksCollection.name | normalizeFilename }}.svg" alt="{{ frameworksCollection.name }}">
   {%- endfor -%}
   <br>
 
 <b>☁️ Cloud Hosting</b><br>
 
   {%- for cloudCollection in collections.cloudCollection -%}
-  <img src="./assets/badges/{{ cloudCollection.name | normalizeFilename }}.svg" alt="{{ cloudCollection.term }}">
+  <img src="./assets/badges/{{ cloudCollection.name | normalizeFilename }}.svg" alt="{{ cloudCollection.name }}">
   {%- endfor -%}
   <br>
 
 <b>🗄️ Databases</b><br>
 
   {%- for databasesCollection in collections.databasesCollection -%}
-  <img src="./assets/badges/{{ databasesCollection.name | normalizeFilename }}.svg" alt="{{ databasesCollection.term }}">
+  <img src="./assets/badges/{{ databasesCollection.name | normalizeFilename }}.svg" alt="{{ databasesCollection.name }}">
   {%- endfor -%}
   <br>
 
 <b>💻 Software and Tools</b><br>
 
   {%- for toolsCollection in collections.toolsCollection -%}
-  <img src="./assets/badges/{{ toolsCollection.name | normalizeFilename }}.svg" alt="{{ toolsCollection.term }}">
+  <img src="./assets/badges/{{ toolsCollection.name | normalizeFilename }}.svg" alt="{{ toolsCollection.name }}">
   {%- endfor -%}
   <br>

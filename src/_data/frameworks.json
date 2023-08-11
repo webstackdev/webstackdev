@@ -1,97 +1,78 @@
 [
   {
     "name": "Arduino",
-    "term": "",
     "order": 1
   },
   {
     "name": "Bootstrap",
-    "term": "",
     "order": 2
   },
   {
     "name": "Electron",
-    "term": "",
     "order": 3
   },
   {
     "name": "ExpressJS",
-    "term": "",
     "order": 4
   },
   {
     "name": "Flask",
-    "term": "",
     "order": 5
   },
   {
     "name": "GitHub Actions",
-    "term": "",
     "order": 6
   },
   {
     "name": "Material Design",
-    "term": "",
     "order": 7
   },
   {
     "name": "NumPy",
-    "term": "",
     "order": 8
   },
   {
     "name": "Pandas",
-    "term": "",
     "order": 9
   },
   {
     "name": "PHPUnit",
-    "term": "",
     "order": 10
   },
   {
     "name": "Pytest",
-    "term": "",
     "order": 11
   },
   {
     "name": "React",
-    "term": "",
     "order": 12
   },
   {
     "name": "Slim",
-    "term": "",
     "order": 13
   },
   {
     "name": "Symfony",
-    "term": "",
     "order": 14
   },
   {
     "name": "TensorFlow",
-    "term": "",
     "order": 15
   },
   {
     "name": "Laravel",
-    "term": "",
     "order": 16
   },
   {
     "name": "Porteus OS",
-    "term": "",
     "order": 17
   },
   {
     "name": "Theia",
-    "term": "",
     "order": 1
   },
   {
     "name": "React Native",
-    "term": "",
     "order": 1
   }
 ]

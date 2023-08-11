@@ -70,7 +70,7 @@ module.exports = (eleventyConfig) => {
   })
 
   eleventyConfig.addFilter('normalizeFilename', term => {
-    return term.replace(/\s+/g, '').toLowerCase()
+    return term.replace(/\s+/g, '')
   })
 
   return {

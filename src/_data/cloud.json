@@ -1,37 +1,30 @@
 [
   {
     "name": "GitHub Pages",
-    "term": "",
     "order": 1
   },
   {
     "name": "Heroku",
-    "term": "",
     "order": 2
   },
   {
     "name": "Vercel",
-    "term": "",
     "order": 3
   },
   {
     "name": "Netlify",
-    "term": "",
     "order": 4
   },
   {
     "name": "AWS",
-    "term": "",
     "order": 5
   },
   {
     "name": "OpenStack",
-    "term": "",
     "order": 6
   },
   {
     "name": "Kubernetes",
-    "term": "",
     "order": 7
   }
 ]

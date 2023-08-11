@@ -1,92 +1,92 @@
 [
   {
     "name": "Assembly",
-    "term": "MIPS Assembly",
+    "term": "Assembly",
     "order": 1
   },
     {
     "name": "BASH",
-    "term": "",
+    "term": "Shell",
     "order": 2
   },
     {
     "name": "C",
-    "term": "",
+    "term": "C",
     "order": 3
   },
     {
     "name": "C++",
-    "term": "cpp",
+    "term": "C%2B%2B",
     "order": 4
   },
     {
     "name": "C#",
-    "term": "",
+    "term": "C%23",
     "order": 5
   },
     {
     "name": "CSS",
-    "term": "",
+    "term": "CSS",
     "order": 6
   },
     {
     "name": "HTML",
-    "term": "",
+    "term": "HTML",
     "order": 7
   },
     {
     "name": "JavaScript",
-    "term": "",
+    "term": "JavaScript",
     "order": 8
   },
     {
     "name": "LaTeX",
-    "term": "tex",
+    "term": "TeX",
     "order": 9
   },
     {
     "name": "Markdown",
-    "term": "",
+    "term": "Markdown",
     "order": 10
   },
     {
     "name": "NodeJS",
-    "term": "",
+    "term": "TypeScript",
     "order": 11
   },
     {
     "name": "PHP",
-    "term": "",
+    "term": "PHP",
     "order": 12
   },
     {
     "name": "Python",
-    "term": "",
+    "term": "Python",
     "order": 13
   },
     {
     "name": "R",
-    "term": "",
+    "term": "R",
     "order": 14
   },
     {
     "name": "SQL",
-    "term": "",
+    "term": "SQL",
     "order": 15
   },
     {
     "name": "SVG",
-    "term": "",
+    "term": "SVG",
     "order": 16
   },
     {
     "name": "TypeScript",
-    "term": "",
+    "term": "TypeScript",
     "order": 17
   },
     {
     "name": "Mono",
-    "term": "",
+    "term": "C%23",
     "order": 18
   }
 ]

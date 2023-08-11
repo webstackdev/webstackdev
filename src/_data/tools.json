@@ -1,67 +1,54 @@
 [
   {
     "name": "Adobe",
-    "term": "",
     "order": 1
   },
   {
     "name": "Android",
-    "term": "",
     "order": 2
   },
   {
     "name": "Android Studio",
-    "term": "",
     "order": 3
   },
   {
     "name": "Arch Linux",
-    "term": "",
     "order": 4
   },
   {
     "name": "Discord",
-    "term": "",
     "order": 5
   },
   {
     "name": "Git",
-    "term": "",
     "order": 6
   },
   {
     "name": "GitHub Desktop",
-    "term": "",
     "order": 7
   },
   {
     "name": "Inkscape",
-    "term": "",
     "order": 8
   },
   {
     "name": "Jupyter",
-    "term": "",
     "order": 9
   },
   {
     "name": "OBS Studio",
-    "term": "",
     "order": 10
   },
   {
     "name": "Stack Overflow",
-    "term": "",
     "order": 11
   },
   {
     "name": "Visual Studio Code",
-    "term": "",
     "order": 12
   },
   {
     "name": "Debian",
-    "term": "",
     "order": 13
   }
 ]

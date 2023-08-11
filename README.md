@@ -139,7 +139,6 @@ me.say_hi()
     <td>
       <p align="top">
         <img src="./assets/employer/webstackbuilders.png" alt="employer logo">
-        !["./assets/employer/webstackbuilders.png"]("Webstack Builders corporate logo")
       </p>
     </td>
     <td>
@@ -153,7 +152,6 @@ me.say_hi()
     <td>
       <p align="top">
         <img src="./assets/employer/lilly.png" alt="employer logo">
-        !["./assets/employer/lilly.png"]("Eli Lilly corporate logo")
       </p>
     </td>
     <td>
@@ -167,7 +165,6 @@ me.say_hi()
     <td>
       <p align="top">
         <img src="./assets/employer/alento.png" alt="employer logo">
-        !["./assets/employer/alento.png"]("Alento, Inc. corporate logo")
       </p>
     </td>
     <td>
@@ -185,57 +182,56 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
 
 <details>
   <summary><b>🛠️ My Favorite Tools</b></summary>
-  <br>
-  <b>👨‍💻 Programming and Markup Languages</b><br><a href="https://github.com/search?q=user%3Awebstackdev+language%3AMIPS Assembly">
-    <img src="./assets/badges/assembly.svg" alt="MIPS Assembly">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/bash.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/c.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3Acpp">
-    <img src="./assets/badges/c++.svg" alt="cpp">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/c#.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/css.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/html.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/javascript.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3Atex">
-    <img src="./assets/badges/latex.svg" alt="tex">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/markdown.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/nodejs.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/php.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/python.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/r.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/sql.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/svg.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/typescript.svg" alt="">
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    <img src="./assets/badges/mono.svg" alt="">
+  <b>👨‍💻 Programming and Markup Languages</b><br><a href="https://github.com/search?q=user%3Awebstackdev+language%3AAssembly&type=Repositories">
+    <img src="./assets/badges/Assembly.svg" alt="Assembly">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AShell&type=Repositories">
+    <img src="./assets/badges/BASH.svg" alt="BASH">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AC&type=Repositories">
+    <img src="./assets/badges/C.svg" alt="C">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AC%2B%2B&type=Repositories">
+    <img src="./assets/badges/C++.svg" alt="C++">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AC%23&type=Repositories">
+    <img src="./assets/badges/C#.svg" alt="C#">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3ACSS&type=Repositories">
+    <img src="./assets/badges/CSS.svg" alt="CSS">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AHTML&type=Repositories">
+    <img src="./assets/badges/HTML.svg" alt="HTML">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AJavaScript&type=Repositories">
+    <img src="./assets/badges/JavaScript.svg" alt="JavaScript">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3ATeX&type=Repositories">
+    <img src="./assets/badges/LaTeX.svg" alt="LaTeX">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AMarkdown&type=Repositories">
+    <img src="./assets/badges/Markdown.svg" alt="Markdown">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3ATypeScript&type=Repositories">
+    <img src="./assets/badges/NodeJS.svg" alt="NodeJS">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3APHP&type=Repositories">
+    <img src="./assets/badges/PHP.svg" alt="PHP">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3APython&type=Repositories">
+    <img src="./assets/badges/Python.svg" alt="Python">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AR&type=Repositories">
+    <img src="./assets/badges/R.svg" alt="R">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3ASQL&type=Repositories">
+    <img src="./assets/badges/SQL.svg" alt="SQL">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3ASVG&type=Repositories">
+    <img src="./assets/badges/SVG.svg" alt="SVG">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3ATypeScript&type=Repositories">
+    <img src="./assets/badges/TypeScript.svg" alt="TypeScript">
+  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AC%23&type=Repositories">
+    <img src="./assets/badges/Mono.svg" alt="Mono">
   </a><br>
 
-<b>🧰 Frameworks and Libraries</b><br><img src="./assets/badges/arduino.svg" alt=""><img src="./assets/badges/theia.svg" alt=""><img src="./assets/badges/reactnative.svg" alt=""><img src="./assets/badges/bootstrap.svg" alt=""><img src="./assets/badges/electron.svg" alt=""><img src="./assets/badges/expressjs.svg" alt=""><img src="./assets/badges/flask.svg" alt=""><img src="./assets/badges/githubactions.svg" alt=""><img src="./assets/badges/materialdesign.svg" alt=""><img src="./assets/badges/numpy.svg" alt=""><img src="./assets/badges/pandas.svg" alt=""><img src="./assets/badges/phpunit.svg" alt=""><img src="./assets/badges/pytest.svg" alt=""><img src="./assets/badges/react.svg" alt=""><img src="./assets/badges/slim.svg" alt=""><img src="./assets/badges/symfony.svg" alt=""><img src="./assets/badges/tensorflow.svg" alt=""><img src="./assets/badges/laravel.svg" alt=""><img src="./assets/badges/porteusos.svg" alt=""><br>
+<b>🧰 Frameworks and Libraries</b><br><img src="./assets/badges/Arduino.svg" alt="Arduino"><img src="./assets/badges/Theia.svg" alt="Theia"><img src="./assets/badges/ReactNative.svg" alt="React Native"><img src="./assets/badges/Bootstrap.svg" alt="Bootstrap"><img src="./assets/badges/Electron.svg" alt="Electron"><img src="./assets/badges/ExpressJS.svg" alt="ExpressJS"><img src="./assets/badges/Flask.svg" alt="Flask"><img src="./assets/badges/GitHubActions.svg" alt="GitHub Actions"><img src="./assets/badges/MaterialDesign.svg" alt="Material Design"><img src="./assets/badges/NumPy.svg" alt="NumPy"><img src="./assets/badges/Pandas.svg" alt="Pandas"><img src="./assets/badges/PHPUnit.svg" alt="PHPUnit"><img src="./assets/badges/Pytest.svg" alt="Pytest"><img src="./assets/badges/React.svg" alt="React"><img src="./assets/badges/Slim.svg" alt="Slim"><img src="./assets/badges/Symfony.svg" alt="Symfony"><img src="./assets/badges/TensorFlow.svg" alt="TensorFlow"><img src="./assets/badges/Laravel.svg" alt="Laravel"><img src="./assets/badges/PorteusOS.svg" alt="Porteus OS"><br>
 
-<b>☁️ Cloud Hosting</b><br><img src="./assets/badges/githubpages.svg" alt=""><img src="./assets/badges/heroku.svg" alt=""><img src="./assets/badges/vercel.svg" alt=""><img src="./assets/badges/netlify.svg" alt=""><img src="./assets/badges/aws.svg" alt=""><img src="./assets/badges/openstack.svg" alt=""><img src="./assets/badges/kubernetes.svg" alt=""><br>
+<b>☁️ Cloud Hosting</b><br><img src="./assets/badges/GitHubPages.svg" alt="GitHub Pages"><img src="./assets/badges/Heroku.svg" alt="Heroku"><img src="./assets/badges/Vercel.svg" alt="Vercel"><img src="./assets/badges/Netlify.svg" alt="Netlify"><img src="./assets/badges/AWS.svg" alt="AWS"><img src="./assets/badges/OpenStack.svg" alt="OpenStack"><img src="./assets/badges/Kubernetes.svg" alt="Kubernetes"><br>
 
-<b>🗄️ Databases</b><br><img src="./assets/badges/mongodb.svg" alt=""><img src="./assets/badges/mysql.svg" alt=""><img src="./assets/badges/postgresql.svg" alt=""><img src="./assets/badges/sqlite.svg" alt=""><img src="./assets/badges/neo4j.svg" alt=""><br>
+<b>🗄️ Databases</b><br><img src="./assets/badges/MongoDB.svg" alt="MongoDB"><img src="./assets/badges/MySQL.svg" alt="MySQL"><img src="./assets/badges/PostgreSQL.svg" alt="PostgreSQL"><img src="./assets/badges/SQLite.svg" alt="SQLite"><img src="./assets/badges/Neo4j.svg" alt="Neo4j"><br>
 
-<b>💻 Software and Tools</b><br><img src="./assets/badges/adobe.svg" alt=""><img src="./assets/badges/android.svg" alt=""><img src="./assets/badges/androidstudio.svg" alt=""><img src="./assets/badges/archlinux.svg" alt=""><img src="./assets/badges/discord.svg" alt=""><img src="./assets/badges/git.svg" alt=""><img src="./assets/badges/githubdesktop.svg" alt=""><img src="./assets/badges/inkscape.svg" alt=""><img src="./assets/badges/jupyter.svg" alt=""><img src="./assets/badges/obsstudio.svg" alt=""><img src="./assets/badges/stackoverflow.svg" alt=""><img src="./assets/badges/visualstudiocode.svg" alt=""><img src="./assets/badges/debian.svg" alt=""><br>
+<b>💻 Software and Tools</b><br><img src="./assets/badges/Adobe.svg" alt="Adobe"><img src="./assets/badges/Android.svg" alt="Android"><img src="./assets/badges/AndroidStudio.svg" alt="Android Studio"><img src="./assets/badges/ArchLinux.svg" alt="Arch Linux"><img src="./assets/badges/Discord.svg" alt="Discord"><img src="./assets/badges/Git.svg" alt="Git"><img src="./assets/badges/GitHubDesktop.svg" alt="GitHub Desktop"><img src="./assets/badges/Inkscape.svg" alt="Inkscape"><img src="./assets/badges/Jupyter.svg" alt="Jupyter"><img src="./assets/badges/OBSStudio.svg" alt="OBS Studio"><img src="./assets/badges/StackOverflow.svg" alt="Stack Overflow"><img src="./assets/badges/VisualStudioCode.svg" alt="Visual Studio Code"><img src="./assets/badges/Debian.svg" alt="Debian"><br>
+  <br>
 </details>
 
 <details>
   <summary><b>💻 Open Source Projects</b></summary>
-  <br>
   <table>
   <thead align="center">
     <tr border: none;>
@@ -269,11 +265,11 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
       </td>
     </tr></tbody>
 </table>
+  <br>
 </details>
 
 <details>
   <summary><b>⚙️ Work Environment</b></summary>
-  <br>
   <ul>
   <li><b>OS:</b> Ubuntu 22.04 with VFIO (Windows 11 in VM)</li>
   <li><b>Workstation:</b> AMD 5700X X570 64 GB</li>
@@ -282,11 +278,12 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
   <li><b>Code Editor:</b> VSCode, Android Studio, and XCode</li>
   <li><b>Opinions:</b> Vim, two spaces, no semicolons, comments for docgen, patterns matter</li>
 </ul>
+  <br>
 </details>
+
 
 <details>
   <summary><b>🔒 PGP Public Key</b></summary>
-  <br>
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGKt7yMBDADZp/bbs+qDPZwQmJ4pvOZv420LgYMJOrR1ZYmdPKy0rySUcdBU
