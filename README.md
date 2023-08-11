@@ -1,4 +1,4 @@
-[![Banner](./assets/Cover-Banner-Kevin-Github.png)](https://webstackbuilders.com)
+[![Banner](./assets/banner.png)](https://webstackbuilders.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006DCB&width=455&lines=Fullstack+Freelance+Software+Developer" alt="Fullstack Freelance Software Developer" />
 
@@ -11,9 +11,11 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Kevin Brown"
         self.role = "Software Engineer"
+        self.desc = """
+          Experienced freelance developer with a strong focus on improving developer experience and delivering software efficiently. Highly skilled in various programming languages and technologies."""
 
     def say_hi(self):
-        print("Experienced freelance software developer with a strong focus on improving developer experience and delivering software efficiently. Highly skilled in various programming languages and technologies.")
+        print(self.desc)
 
 me = SoftwareEngineer()
 me.say_hi()
@@ -131,191 +133,35 @@ me.say_hi()
 
 ## Work Experience
 
-<table><tr
-    id="experienceItem-1"
-    class="mainItem"
-    itemprop="worksFor"
-    itemscope
-    itemref="resumeSubject"
-    itemtype="http://schema.org/Organization"
-  >
-    <td>
+<table><tr>
+    <td style="vertical-align: top;">
       <img src="./assets/employer/webstackbuilders.png" alt="employer logo">
     </td>
     <td>
-      <h3
-        id="role-1"
-        itemprop="Role"
-        itemref="experienceItem-1"
-        itemscope
-        itemtype="https://schema.org/EmployeeRole"
-      >
-        <span itemprop="roleName">Software Developer</span>
-      </h3>
-      <div class="mainDetailName" itemprop="legalName">
-        Webstack Builders • Freelance
-      </div>
-      <div class="mainDetails">
-        <span
-          class="mainDetailHeader"
-          itemprop="Role"
-          itemscope
-          itemtype="https://schema.org/EmployeeRole"
-        >
-          <span class="mainDetailIcon"><img src="./assets/icon-calendar.svg"></span>
-          <span class="mainDetailText">
-            <span
-              itemprop="startDate"
-              itemtype="http://schema.org/startDate"
-              content="2016-02"
-            >February, 2016</span> - <span
-              itemprop="endDate"
-              itemtype="http://schema.org/endDate"
-              content=""
-            >Present</span>
-          </span>
-        </span>
-        <a
-          class="detailLocationAnchor"
-          href=""
-          itemprop="location"
-          itemscope
-          itemtype="http://schema.org/PostalAddress"
-        >
-          <span class="mainDetailIcon"><img src="./assets/icon-location.svg"></span>
-          <span class="mainDetailText">
-            <span itemprop="addressLocality">Clayton</span>, <span itemprop="addressRegion">Delaware</span>
-          </span>
-        </a>
-      </div>
-      <div class="mainDetailContent experienceDetailContent" itemprop="description">
-        <p><strong>Languages &amp; Technologies:</strong> TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp/C++/libuv/V8)</p>
+      ### Software Developer
+      **Webstack Builders** • Freelance
+      <p><strong>Languages &amp; Technologies:</strong> TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp/C++/libuv/V8)</p>
 
-      </div>
     </td>
-  </tr><tr
-    id="experienceItem-2"
-    class="mainItem"
-    itemprop="alumniOf"
-    itemscope
-    itemref="resumeSubject"
-    itemtype="http://schema.org/Organization"
-  >
-    <td>
+  </tr><tr>
+    <td style="vertical-align: top;">
       <img src="./assets/employer/lilly.png" alt="employer logo">
     </td>
     <td>
-      <h3
-        id="role-2"
-        itemprop="Role"
-        itemref="experienceItem-2"
-        itemscope
-        itemtype="https://schema.org/EmployeeRole"
-      >
-        <span itemprop="roleName">System Analyst</span>
-      </h3>
-      <div class="mainDetailName" itemprop="legalName">
-        Eli Lilly • Full-Time
-      </div>
-      <div class="mainDetails">
-        <span
-          class="mainDetailHeader"
-          itemprop="Role"
-          itemscope
-          itemtype="https://schema.org/EmployeeRole"
-        >
-          <span class="mainDetailIcon"><img src="./assets/icon-calendar.svg"></span>
-          <span class="mainDetailText">
-            <span
-              itemprop="startDate"
-              itemtype="http://schema.org/startDate"
-              content="2011-06"
-            >June, 2011</span> - <span
-              itemprop="endDate"
-              itemtype="http://schema.org/endDate"
-              content="2013-08"
-            >August, 2013</span>
-          </span>
-        </span>
-        <a
-          class="detailLocationAnchor"
-          href=""
-          itemprop="location"
-          itemscope
-          itemtype="http://schema.org/PostalAddress"
-        >
-          <span class="mainDetailIcon"><img src="./assets/icon-location.svg"></span>
-          <span class="mainDetailText">
-            <span itemprop="addressLocality">Indianapolis</span>, <span itemprop="addressRegion">Indiana</span>
-          </span>
-        </a>
-      </div>
-      <div class="mainDetailContent experienceDetailContent" itemprop="description">
-        <p><strong>Languages &amp; Technologies:</strong> Microsoft Project, Microsoft Excel, SharePoint, .NET, C#</p>
+      ### System Analyst
+      **Eli Lilly** • Full-Time
+      <p><strong>Languages &amp; Technologies:</strong> Microsoft Project, Microsoft Excel, SharePoint, .NET, C#</p>
 
-      </div>
     </td>
-  </tr><tr
-    id="experienceItem-3"
-    class="mainItem"
-    itemprop="alumniOf"
-    itemscope
-    itemref="resumeSubject"
-    itemtype="http://schema.org/Organization"
-  >
-    <td>
+  </tr><tr>
+    <td style="vertical-align: top;">
       <img src="./assets/employer/alento.png" alt="employer logo">
     </td>
     <td>
-      <h3
-        id="role-3"
-        itemprop="Role"
-        itemref="experienceItem-3"
-        itemscope
-        itemtype="https://schema.org/EmployeeRole"
-      >
-        <span itemprop="roleName">Infrastructure Engineer</span>
-      </h3>
-      <div class="mainDetailName" itemprop="legalName">
-        Alento, Inc. • Full-Time
-      </div>
-      <div class="mainDetails">
-        <span
-          class="mainDetailHeader"
-          itemprop="Role"
-          itemscope
-          itemtype="https://schema.org/EmployeeRole"
-        >
-          <span class="mainDetailIcon"><img src="./assets/icon-calendar.svg"></span>
-          <span class="mainDetailText">
-            <span
-              itemprop="startDate"
-              itemtype="http://schema.org/startDate"
-              content="2013-08"
-            >August, 2013</span> - <span
-              itemprop="endDate"
-              itemtype="http://schema.org/endDate"
-              content="2016-02"
-            >February, 2016</span>
-          </span>
-        </span>
-        <a
-          class="detailLocationAnchor"
-          href=""
-          itemprop="location"
-          itemscope
-          itemtype="http://schema.org/PostalAddress"
-        >
-          <span class="mainDetailIcon"><img src="./assets/icon-location.svg"></span>
-          <span class="mainDetailText">
-            <span itemprop="addressLocality">Dover</span>, <span itemprop="addressRegion">Delaware</span>
-          </span>
-        </a>
-      </div>
-      <div class="mainDetailContent experienceDetailContent" itemprop="description">
-        <p><strong>Languages &amp; Technologies:</strong> OpenStack, Docker, BGP, OSPF, VLAN, Cisco IOS, RHEL, Debian, KVM, QEMU, OpenBSD, Jenkins, BASH, Python, Nagios, Squid, Postfix, OpenLDAP, SOAP, gRPC</p>
+      ### Infrastructure Engineer
+      **Alento, Inc.** • Full-Time
+      <p><strong>Languages &amp; Technologies:</strong> OpenStack, Docker, BGP, OSPF, VLAN, Cisco IOS, RHEL, Debian, KVM, QEMU, OpenBSD, Jenkins, BASH, Python, Nagios, Squid, Postfix, OpenLDAP, SOAP, gRPC</p>
 
-      </div>
     </td>
   </tr></table>
 
@@ -325,135 +171,18 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
 
 <details>
   <summary><b>🛠️ My Favorite Tools</b></summary>
-  ### 👨‍💻 Programming and Markup Languages<a href="https://github.com/search?q=user%3Awebstackdev+language%3AMIPS Assembly">
-    ![MIPS Assembly](./assets/badges/assembly.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/bash.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/c.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3Acpp">
-    ![cpp](./assets/badges/c++.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/c#.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/css.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/html.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/javascript.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3Atex">
-    ![tex](./assets/badges/latex.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/markdown.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/nodejs.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/php.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/python.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/r.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/sql.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/svg.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/typescript.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/mono.svg)
-  </a>### 🧰 Frameworks and Libraries<a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/arduino.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/theia.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/reactnative.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/bootstrap.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/electron.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/expressjs.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/flask.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/githubactions.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/materialdesign.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/numpy.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/pandas.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/phpunit.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/pytest.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/react.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/slim.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/symfony.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/tensorflow.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/laravel.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/porteusos.svg)
-  </a>### ☁️ Cloud Hosting<a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/githubpages.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/heroku.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/vercel.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/netlify.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/aws.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/openstack.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/kubernetes.svg)
-  </a>### 🗄️ Databases<a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/mongodb.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/mysql.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/postgresql.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/sqlite.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/neo4j.svg)
-  </a>### 💻 Software and Tools<a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/adobe.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/android.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/androidstudio.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/archlinux.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/discord.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/git.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/githubdesktop.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/inkscape.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/jupyter.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/obsstudio.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/stackoverflow.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/visualstudiocode.svg)
-  </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3A">
-    ![](./assets/badges/debian.svg)
-  </a>
+  <br>
+  ### 👨‍💻 Programming and Markup Languages
+  <br>[![MIPS Assembly]("./assets/badges/assembly.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3AMIPS Assembly")[![]("./assets/badges/bash.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/c.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![cpp]("./assets/badges/c++.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3Acpp")[![]("./assets/badges/c#.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/css.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/html.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/javascript.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![tex]("./assets/badges/latex.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3Atex")[![]("./assets/badges/markdown.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/nodejs.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/php.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/python.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/r.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/sql.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/svg.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/typescript.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[![]("./assets/badges/mono.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")### 🧰 Frameworks and Libraries
+  <br>[!["](./assets/badges/arduino.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/theia.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/reactnative.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/bootstrap.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/electron.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/expressjs.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/flask.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/githubactions.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/materialdesign.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/numpy.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/pandas.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/phpunit.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/pytest.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/react.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/slim.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/symfony.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/tensorflow.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/laravel.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/porteusos.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")### ☁️ Cloud Hosting
+  <br>[!["](./assets/badges/githubpages.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/heroku.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/vercel.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/netlify.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/aws.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/openstack.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/kubernetes.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")### 🗄️ Databases
+  <br>[!["](./assets/badges/mongodb.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/mysql.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/postgresql.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/sqlite.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/neo4j.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")### 💻 Software and Tools
+  <br>[!["](./assets/badges/adobe.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/android.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/androidstudio.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/archlinux.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/discord.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/git.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/githubdesktop.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/inkscape.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/jupyter.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/obsstudio.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/stackoverflow.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/visualstudiocode.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")[!["](./assets/badges/debian.svg")]("https://github.com/search?q=user%3Awebstackdev+language%3A")
 </details>
 
 <details>
   <summary><b>💻 Open Source Projects</b></summary>
+  <br>
   <table>
   <thead align="center">
     <tr border: none;>
@@ -491,6 +220,7 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
 
 <details>
   <summary><b>⚙️ Work Environment</b></summary>
+  <br>
   <ul>
   <li><b>OS:</b> Ubuntu 22.04 with VFIO (Windows 11 in VM)</li>
   <li><b>Workstation:</b> AMD 5700X X570 64 GB</li>
@@ -503,8 +233,8 @@ See [here](https://resume.webstackbuilders.com) for my detailed resume.
 
 <details>
   <summary><b>🔒 PGP Public Key</b></summary>
-  ```bash
------BEGIN PGP PUBLIC KEY BLOCK-----
+  <br>
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGKt7yMBDADZp/bbs+qDPZwQmJ4pvOZv420LgYMJOrR1ZYmdPKy0rySUcdBU
 R62b0dWt0zQUQVOTyvvWHVpUkf8PXCwth0q5vvIr5U+X1Vd8/hTHF2S+6RDq05cj
@@ -545,5 +275,4 @@ RczVjB66YkSms4Ls8fHNk1T8Ny/ucVLHMG/9v/TRCOYAETkioyunbFRQVHtdqsqT
 YxCEijwDTuM8NDFTOAu1YF344bfw3vgN1w==
 =J5Hw
 -----END PGP PUBLIC KEY BLOCK-----
-```
 </details>

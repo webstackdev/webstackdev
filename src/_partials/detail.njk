@@ -7,9 +7,11 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Kevin Brown"
         self.role = "Software Engineer"
+        self.desc = """
+          Experienced freelance developer with a strong focus on improving developer experience and delivering software efficiently. Highly skilled in various programming languages and technologies."""
 
     def say_hi(self):
-        print("Experienced freelance software developer with a strong focus on improving developer experience and delivering software efficiently. Highly skilled in various programming languages and technologies.")
+        print(self.desc)
 
 me = SoftwareEngineer()
 me.say_hi()
