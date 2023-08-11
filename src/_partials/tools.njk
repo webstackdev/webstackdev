@@ -1,29 +1,31 @@
-### 👨‍💻 Programming and Markup Languages
-  <br>
+<b>👨‍💻 Programming and Markup Languages</b>
+
   {%- for languageCollection in collections.languageCollection -%}
-  [![{{ languageCollection.term }}]("./assets/badges/{{ languageCollection.name | normalizeFilename }}.svg")]("https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ languageCollection.term }}")
+  <a href="https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ languageCollection.term }}">
+    <img src="./assets/badges/{{ languageCollection.name | normalizeFilename }}.svg" alt="{{ languageCollection.term }}">
+  </a>
   {%- endfor -%}
 
-### 🧰 Frameworks and Libraries
-  <br>
+<b>🧰 Frameworks and Libraries</b>
+
   {%- for frameworksCollection in collections.frameworksCollection -%}
-  [!["{{ frameworksCollection.term }}](./assets/badges/{{ frameworksCollection.name | normalizeFilename }}.svg")]("https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ frameworksCollection.term }}")
+  <img src="./assets/badges/{{ frameworksCollection.name | normalizeFilename }}.svg" alt="{{ frameworksCollection.term }}">
   {%- endfor -%}
 
-### ☁️ Cloud Hosting
-  <br>
+<b>☁️ Cloud Hosting</b>
+
   {%- for cloudCollection in collections.cloudCollection -%}
-  [!["{{ cloudCollection.term }}](./assets/badges/{{ cloudCollection.name | normalizeFilename }}.svg")]("https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ cloudCollection.term }}")
+  <img src="./assets/badges/{{ cloudCollection.name | normalizeFilename }}.svg" alt="{{ cloudCollection.term }}">
   {%- endfor -%}
 
-### 🗄️ Databases
-  <br>
+<b>🗄️ Databases</b>
+
   {%- for databasesCollection in collections.databasesCollection -%}
-  [!["{{ databasesCollection.term }}](./assets/badges/{{ databasesCollection.name | normalizeFilename }}.svg")]("https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ databasesCollection.term }}")
+  <img src="./assets/badges/{{ databasesCollection.name | normalizeFilename }}.svg" alt="{{ databasesCollection.term }}">
   {%- endfor -%}
 
-### 💻 Software and Tools
-  <br>
+<b>💻 Software and Tools</b>
+
   {%- for toolsCollection in collections.toolsCollection -%}
-  [!["{{ toolsCollection.term }}](./assets/badges/{{ toolsCollection.name | normalizeFilename }}.svg")]("https://github.com/search?q=user%3A{{ user.githubUsername }}+language%3A{{ toolsCollection.term }}")
+  <img src="./assets/badges/{{ toolsCollection.name | normalizeFilename }}.svg" alt="{{ toolsCollection.term }}">
   {%- endfor -%}

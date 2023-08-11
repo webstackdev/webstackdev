@@ -5,8 +5,8 @@
       <img src="./assets/employer/{{ experienceItem.data.employerLogo }}" alt="employer logo">
     </td>
     <td>
-      ### {{ experienceItem.data.jobTitle }}
-      **{{ experienceItem.data.employerName }}** • {{ experienceItem.data.employmentType }}
+      <b>{{ experienceItem.data.jobTitle }}</b><br>
+      {{ experienceItem.data.employerName }} • {{ experienceItem.data.employmentType }}<br>
       {{ experienceItem.content | safe }}
     </td>
   </tr>
