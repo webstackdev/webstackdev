@@ -9,46 +9,42 @@
   },
   {
     "name": "Arch Linux",
-    "order": 4
+    "order": 3
   },
   {
     "name": "Discord",
-    "order": 5
+    "order": 4
   },
   {
     "name": "Git",
-    "order": 6
+    "order": 5
   },
   {
     "name": "GitHub Desktop",
-    "order": 7
+    "order": 6
   },
   {
     "name": "Inkscape",
-    "order": 8
+    "order": 7
   },
   {
     "name": "Jupyter",
-    "order": 9
+    "order": 8
   },
   {
     "name": "OBS Studio",
-    "order": 10
+    "order": 9
   },
   {
     "name": "Stack Overflow",
-    "order": 11
+    "order": 10
   },
   {
     "name": "Visual Studio Code",
-    "order": 12
+    "order": 11
   },
   {
     "name": "Debian",
-    "order": 13
-  },
-  {
-    "name": "Android Studio",
-    "order": 14
+    "order": 12
   }
 ]
