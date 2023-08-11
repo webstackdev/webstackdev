@@ -237,7 +237,6 @@ See [here](https://webstackdev.github.io) for my detailed resume.
 <details>
   <br>
   <summary><b>💻 Open Source Projects</b></summary>
-  <br>
   <table>
   <thead align="center">
     <tr border: none;>
@@ -275,7 +274,6 @@ See [here](https://webstackdev.github.io) for my detailed resume.
 <details>
   <br>
   <summary><b>⚙️ Work Environment</b></summary>
-  <br>
   <ul>
   <li><b>OS:</b> Ubuntu 22.04 with VFIO (Windows 11 in VM)</li>
   <li><b>Workstation:</b> AMD 5700X X570 64 GB</li>
@@ -288,7 +286,6 @@ See [here](https://webstackdev.github.io) for my detailed resume.
 <details>
   <br>
   <summary><b>🔒 PGP Public Key</b></summary>
-  <br>
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 mQGNBGKt7yMBDADZp/bbs+qDPZwQmJ4pvOZv420LgYMJOrR1ZYmdPKy0rySUcdBU
 R62b0dWt0zQUQVOTyvvWHVpUkf8PXCwth0q5vvIr5U+X1Vd8/hTHF2S+6RDq05cj
