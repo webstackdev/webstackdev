@@ -8,10 +8,6 @@
     "order": 2
   },
   {
-    "name": "Android Studio",
-    "order": 3
-  },
-  {
     "name": "Arch Linux",
     "order": 4
   },
@@ -50,5 +46,9 @@
   {
     "name": "Debian",
     "order": 13
+  },
+  {
+    "name": "Android Studio",
+    "order": 14
   }
 ]

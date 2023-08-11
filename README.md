@@ -184,7 +184,7 @@ See [here](https://webstackdev.github.io) for my detailed resume.
   <summary><b>🛠️ My Favorite Tools</b></summary>
   <br>
   <b>👨‍💻 Programming and Markup Languages</b>
-  <br><a href="https://github.com/search?q=user%3Awebstackdev+language%3AAssembly&type=Repositories">
+  <br><br><a href="https://github.com/search?q=user%3Awebstackdev+language%3AAssembly&type=Repositories">
     <img src="./assets/badges/Assembly.svg" alt="Assembly">
   </a><a href="https://github.com/search?q=user%3Awebstackdev+language%3AShell&type=Repositories">
     <img src="./assets/badges/BASH.svg" alt="BASH">
@@ -223,16 +223,16 @@ See [here](https://webstackdev.github.io) for my detailed resume.
   </a><br><br>
 
 <b>🧰 Frameworks and Libraries</b>
-  <br><img src="./assets/badges/Arduino.svg" alt="Arduino"><img src="./assets/badges/Bootstrap.svg" alt="Bootstrap"><img src="./assets/badges/Electron.svg" alt="Electron"><img src="./assets/badges/ExpressJS.svg" alt="ExpressJS"><img src="./assets/badges/Flask.svg" alt="Flask"><img src="./assets/badges/GitHubActions.svg" alt="GitHub Actions"><img src="./assets/badges/MaterialDesign.svg" alt="Material Design"><img src="./assets/badges/NumPy.svg" alt="NumPy"><img src="./assets/badges/Pandas.svg" alt="Pandas"><img src="./assets/badges/PHPUnit.svg" alt="PHPUnit"><img src="./assets/badges/Pytest.svg" alt="Pytest"><img src="./assets/badges/React.svg" alt="React"><img src="./assets/badges/Symfony.svg" alt="Symfony"><img src="./assets/badges/TensorFlow.svg" alt="TensorFlow"><img src="./assets/badges/Laravel.svg" alt="Laravel"><img src="./assets/badges/Theia.svg" alt="Theia"><img src="./assets/badges/ReactNative.svg" alt="React Native"><br>
+  <br><br><img src="./assets/badges/Arduino.svg" alt="Arduino"><img src="./assets/badges/Bootstrap.svg" alt="Bootstrap"><img src="./assets/badges/Electron.svg" alt="Electron"><img src="./assets/badges/ExpressJS.svg" alt="ExpressJS"><img src="./assets/badges/Flask.svg" alt="Flask"><img src="./assets/badges/GitHubActions.svg" alt="GitHub Actions"><img src="./assets/badges/MaterialDesign.svg" alt="Material Design"><img src="./assets/badges/NumPy.svg" alt="NumPy"><img src="./assets/badges/Pandas.svg" alt="Pandas"><img src="./assets/badges/PHPUnit.svg" alt="PHPUnit"><img src="./assets/badges/Pytest.svg" alt="Pytest"><img src="./assets/badges/React.svg" alt="React"><img src="./assets/badges/Symfony.svg" alt="Symfony"><img src="./assets/badges/TensorFlow.svg" alt="TensorFlow"><img src="./assets/badges/Laravel.svg" alt="Laravel"><img src="./assets/badges/Theia.svg" alt="Theia"><img src="./assets/badges/ReactNative.svg" alt="React Native"><br>
 
 <b>☁️ Cloud Hosting</b>
-  <br><img src="./assets/badges/GitHubPages.svg" alt="GitHub Pages"><img src="./assets/badges/Heroku.svg" alt="Heroku"><img src="./assets/badges/Vercel.svg" alt="Vercel"><img src="./assets/badges/Netlify.svg" alt="Netlify"><img src="./assets/badges/AWS.svg" alt="AWS"><img src="./assets/badges/OpenStack.svg" alt="OpenStack"><img src="./assets/badges/Kubernetes.svg" alt="Kubernetes"><br>
+  <br><br><img src="./assets/badges/GitHubPages.svg" alt="GitHub Pages"><img src="./assets/badges/Heroku.svg" alt="Heroku"><img src="./assets/badges/Vercel.svg" alt="Vercel"><img src="./assets/badges/Netlify.svg" alt="Netlify"><img src="./assets/badges/AWS.svg" alt="AWS"><img src="./assets/badges/OpenStack.svg" alt="OpenStack"><img src="./assets/badges/Kubernetes.svg" alt="Kubernetes"><br>
 
 <b>🗄️ Databases</b>
-  <br><img src="./assets/badges/MongoDB.svg" alt="MongoDB"><img src="./assets/badges/MySQL.svg" alt="MySQL"><img src="./assets/badges/PostgreSQL.svg" alt="PostgreSQL"><img src="./assets/badges/SQLite.svg" alt="SQLite"><img src="./assets/badges/Neo4j.svg" alt="Neo4j"><br>
+  <br><br><img src="./assets/badges/MongoDB.svg" alt="MongoDB"><img src="./assets/badges/MySQL.svg" alt="MySQL"><img src="./assets/badges/PostgreSQL.svg" alt="PostgreSQL"><img src="./assets/badges/SQLite.svg" alt="SQLite"><img src="./assets/badges/Neo4j.svg" alt="Neo4j"><br>
 
 <b>💻 Software and Tools</b>
-  <br><img src="./assets/badges/Adobe.svg" alt="Adobe"><img src="./assets/badges/Android.svg" alt="Android"><img src="./assets/badges/AndroidStudio.svg" alt="Android Studio"><img src="./assets/badges/ArchLinux.svg" alt="Arch Linux"><img src="./assets/badges/Discord.svg" alt="Discord"><img src="./assets/badges/Git.svg" alt="Git"><img src="./assets/badges/GitHubDesktop.svg" alt="GitHub Desktop"><img src="./assets/badges/Inkscape.svg" alt="Inkscape"><img src="./assets/badges/Jupyter.svg" alt="Jupyter"><img src="./assets/badges/OBSStudio.svg" alt="OBS Studio"><img src="./assets/badges/StackOverflow.svg" alt="Stack Overflow"><img src="./assets/badges/VisualStudioCode.svg" alt="Visual Studio Code"><img src="./assets/badges/Debian.svg" alt="Debian"><br>
+  <br><br><img src="./assets/badges/Adobe.svg" alt="Adobe"><img src="./assets/badges/Android.svg" alt="Android"><img src="./assets/badges/ArchLinux.svg" alt="Arch Linux"><img src="./assets/badges/Discord.svg" alt="Discord"><img src="./assets/badges/Git.svg" alt="Git"><img src="./assets/badges/GitHubDesktop.svg" alt="GitHub Desktop"><img src="./assets/badges/Inkscape.svg" alt="Inkscape"><img src="./assets/badges/Jupyter.svg" alt="Jupyter"><img src="./assets/badges/OBSStudio.svg" alt="OBS Studio"><img src="./assets/badges/StackOverflow.svg" alt="Stack Overflow"><img src="./assets/badges/VisualStudioCode.svg" alt="Visual Studio Code"><img src="./assets/badges/Debian.svg" alt="Debian"><img src="./assets/badges/AndroidStudio.svg" alt="Android Studio"><br>
 </details>
 <details>
   <br>
