@@ -1,13 +1,17 @@
 <table>
   {%- for experienceItem in collections.experienceSection -%}
   <tr>
-    <td style="vertical-align: top;">
-      <img src="./assets/employer/{{ experienceItem.data.employerLogo }}" alt="employer logo">
+    <td>
+      <p align="top">
+        <img src="./assets/employer/{{ experienceItem.data.employerLogo }}" alt="employer logo">
+        !["./assets/employer/{{ experienceItem.data.employerLogo }}"]("{{ experienceItem.data.employerName }} corporate logo")
+      </p>
     </td>
     <td>
       <b>{{ experienceItem.data.jobTitle }}</b><br>
-      {{ experienceItem.data.employerName }} • {{ experienceItem.data.employmentType }}<br>
-      {{ experienceItem.content | safe }}
+      {{ experienceItem.data.employerName }}<br>
+      {{ experienceItem.data.employmentType }} • {{ experienceItem.data.employmentSite }}<br>
+      {{ experienceItem.content | safe }}<br>
     </td>
   </tr>
   {%- endfor -%}

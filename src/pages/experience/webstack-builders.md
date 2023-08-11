@@ -1,15 +1,10 @@
 ---
 order: 1
-startDate: 2016-02
-endDate:
 jobTitle: 'Software Developer'
 employerName: 'Webstack Builders'
 employerLogo: webstackbuilders.png
-employerCity: Clayton
-employerState: Delaware
-employerCountry: 'United States'
 locationMap: 'https://goo.gl/maps/2YrZYDRvD3FU9mkCA'
 employmentType: Freelance
 employmentSite: Remote
 ---
-**Languages & Technologies:** TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp/C++/libuv/V8)
+**Languages & Technologies:** TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp / C++ / libuv / V8)
