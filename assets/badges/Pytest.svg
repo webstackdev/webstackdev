@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="20" role="img" aria-label="Pytest">
+  <title>Pytest</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+    <stop offset="1" stop-opacity=".1" />
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="63" height="20" rx="3" fill="#fff" />
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="0" height="20" fill="#555" />
+    <rect x="0" width="63" height="20" fill="#0a9edc" />
+    <rect width="63" height="20" fill="url(#s)" />
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <svg x="5" y="3" width="14" height="14" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M2.6152 0v.8867h3.8399V0zm5.0215 0v.8867h3.8418V0zm4.957 0v.8867h3.8418V0zm4.9356 0v.8867h3.8418V0zM2.4473 1.8945a.935.935 0 0 0-.9356.9356c0 .517.4185.9375.9356.9375h19.1054c.5171 0 .9356-.4204.9356-.9375a.935.935 0 0 0-.9356-.9356zm.168 2.8477V24H6.455V4.7422zm5.0214 0V20.543h3.8418V4.7422zm4.957 0V15.291h3.8497V4.7422zm4.9356 0v6.4941h3.8418V4.7422z" />
+    </svg>
+    <text aria-hidden="true" x="405" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="350">Pytest</text>
+    <text x="405" y="140" transform="scale(.1)" fill="#fff" textLength="350">Pytest</text>
+  </g>
+</svg>

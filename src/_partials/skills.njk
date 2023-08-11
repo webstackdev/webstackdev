@@ -1,0 +1,15 @@
+<table>
+  <tr>
+    {%- for skill in collections.skillsSection -%}
+    <td align="center" width="96">
+      <img
+        src="./assets/skills/{{ skill.name }}.svg"
+        width="48"
+        height="48"
+        alt="{{ skill.name }}"
+      />
+      <br>{{ skill.name }}
+    </td>
+    {%- endfor -%}
+  </tr>
+</table>

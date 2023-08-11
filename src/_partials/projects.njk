@@ -1,0 +1,37 @@
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>💻 Projects</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+      <td><b>🐛 Issues</b></td>
+      <td><b>🔔 Pull Requests</b></td>
+      <td><b>👨‍💻 Language</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for projects in collections.projectsCollection -%}
+    <tr>
+      <td>
+        <a href="https://github.com/{{ user.githubUsername }}/{{ projects.repoName }}"><b>{{ projects.emoji }} {{ projects.projectName }}</b>
+        </a>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/{{ user.githubUsername }}/{{ projects.repoName }}?style={{ projectLabels.style }}&labelColor={{ projectLabels.stars }}"/>
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/{{ user.githubUsername }}/{{ projects.repoName }}?style={{ projectLabels.style }}&labelColor={{ projectLabels.forks }}"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/{{ user.githubUsername }}/{{ projects.repoName }}?style={{ projectLabels.style }}&labelColor={{ projectLabels.issues }}"/><
+      /td>
+      <td>
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ user.githubUsername }}/{{ projects.repoName }}?style={{ projectLabels.style }}&labelColor={{ projectLabels.pullRequests }}"/>
+      </td>
+      <td>
+        <img alt="Language" src="https://img.shields.io/github/languages/top/{{ user.githubUsername }}/{{ projects.repoName }}?style={{ projectLabels.style }}&labelColor={{ projectLabels.language }}"/>
+      </td>
+    </tr>
+    {%- endfor -%}
+  </tbody>
+</table>

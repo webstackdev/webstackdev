@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81" height="20" role="img" aria-label="OpenStack">
+  <title>OpenStack</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+    <stop offset="1" stop-opacity=".1" />
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="81" height="20" rx="3" fill="#fff" />
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="0" height="20" fill="#555" />
+    <rect x="0" width="81" height="20" fill="#ED1D47" />
+    <rect width="81" height="20" fill="url(#s)" />
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <svg x="5" y="3" width="14" height="14" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <g>
+        <path d="M45,6.8v8.9H34.9v-2a1.6,1.6,0,0,0-1.6-1.6H14.7a1.6,1.6,0,0,0-1.6,1.6v2H3V6.8a4,4,0,0,1,4-4H41A4,4,0,0,1,45,6.8Z" />
+        <rect x="3" y="18.2" width="10.1" height="9.69" />
+        <rect x="34.9" y="18.2" width="10.1" height="9.69" />
+        <path d="M45,30.3v8.9a4,4,0,0,1-4,4H7a4,4,0,0,1-4-4V30.3H13.1v2a1.6,1.6,0,0,0,1.6,1.6H33.3a1.6,1.6,0,0,0,1.6-1.6v-2Z" />
+      </g>
+    </svg>
+    <text aria-hidden="true" x="495" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="530">OpenStack</text>
+    <text x="495" y="140" transform="scale(.1)" fill="#fff" textLength="530">OpenStack</text>
+  </g>
+</svg>

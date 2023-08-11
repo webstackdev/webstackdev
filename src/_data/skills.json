@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Golang",
+    "order": 1
+  },
+  {
+    "name": "TypeScript",
+    "order": 2
+  },
+  {
+    "name": "Python",
+    "order": 3
+  },
+  {
+    "name": "Kubernetes",
+    "order": 4
+  },
+  {
+    "name": "Docker",
+    "order": 5
+  },
+  {
+    "name": "Debian",
+    "order": 6
+  },
+  {
+    "name": "Grafana",
+    "order": 7
+  },
+  {
+    "name": "Node",
+    "order": 8
+  },
+  {
+    "name": "React",
+    "order": 9
+  },
+  {
+    "name": "Sass",
+    "order": 10
+  },
+  {
+    "name": "AWS",
+    "order": 11
+  },
+  {
+    "name": "GraphQL",
+    "order": 12
+  },
+  {
+    "name": "Laravel",
+    "order": 13
+  }
+]

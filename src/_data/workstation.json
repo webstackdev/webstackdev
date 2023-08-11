@@ -1,0 +1,8 @@
+{
+  "comms": "Slack, Discord, Zoom, Viber, WhatsApp, Skype, Signal, Telegram, POTS",
+  "os": "Ubuntu 22.04 with VFIO (Windows 11 in VM)",
+  "workstation": "AMD 5700X X570 64 GB",
+  "desktop": "KDE 5.25, dual 4K monitor setup (32\" and 27\")",
+  "codeEditor": "VSCode, Android Studio, and XCode",
+  "opinions": "Vim, two spaces, no semicolons, comments for docgen, patterns matter"
+}

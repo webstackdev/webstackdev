@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Assembly",
+    "term": "MIPS Assembly",
+    "order": 1
+  },
+    {
+    "name": "BASH",
+    "term": "",
+    "order": 2
+  },
+    {
+    "name": "C",
+    "term": "",
+    "order": 3
+  },
+    {
+    "name": "C++",
+    "term": "cpp",
+    "order": 4
+  },
+    {
+    "name": "C#",
+    "term": "",
+    "order": 5
+  },
+    {
+    "name": "CSS",
+    "term": "",
+    "order": 6
+  },
+    {
+    "name": "HTML",
+    "term": "",
+    "order": 7
+  },
+    {
+    "name": "JavaScript",
+    "term": "",
+    "order": 8
+  },
+    {
+    "name": "LaTeX",
+    "term": "tex",
+    "order": 9
+  },
+    {
+    "name": "Markdown",
+    "term": "",
+    "order": 10
+  },
+    {
+    "name": "NodeJS",
+    "term": "",
+    "order": 11
+  },
+    {
+    "name": "PHP",
+    "term": "",
+    "order": 12
+  },
+    {
+    "name": "Python",
+    "term": "",
+    "order": 13
+  },
+    {
+    "name": "R",
+    "term": "",
+    "order": 14
+  },
+    {
+    "name": "SQL",
+    "term": "",
+    "order": 15
+  },
+    {
+    "name": "SVG",
+    "term": "",
+    "order": 16
+  },
+    {
+    "name": "TypeScript",
+    "term": "",
+    "order": 17
+  },
+    {
+    "name": "Mono",
+    "term": "",
+    "order": 18
+  }
+]

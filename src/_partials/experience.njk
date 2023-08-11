@@ -1,0 +1,66 @@
+<table>
+  {%- for experienceItem in collections.experienceSection -%}
+  <tr
+    id="experienceItem-{{ experienceItem.data.order }}"
+    class="mainItem"
+    itemprop="{{ experienceItem | getJobItemProp }}"
+    itemscope
+    itemref="resumeSubject"
+    itemtype="http://schema.org/Organization"
+  >
+    <td>
+      <img src="./assets/employer/{{ experienceItem.data.employerLogo }}" alt="employer logo">
+    </td>
+    <td>
+      <h3
+        id="role-{{ experienceItem.data.order }}"
+        itemprop="Role"
+        itemref="experienceItem-{{ experienceItem.data.order }}"
+        itemscope
+        itemtype="https://schema.org/EmployeeRole"
+      >
+        <span itemprop="roleName">{{ experienceItem.data.jobTitle }}</span>
+      </h3>
+      <div class="mainDetailName" itemprop="legalName">
+        {{ experienceItem.data.employerName }} • {{ experienceItem.data.employmentType }}
+      </div>
+      <div class="mainDetails">
+        <span
+          class="mainDetailHeader"
+          itemprop="Role"
+          itemscope
+          itemtype="https://schema.org/EmployeeRole"
+        >
+          <span class="mainDetailIcon"><img src="./assets/icon-calendar.svg"></span>
+          <span class="mainDetailText">
+            <span
+              itemprop="startDate"
+              itemtype="http://schema.org/startDate"
+              content="{{ experienceItem.data.startDate }}"
+            >{{ experienceItem.data.startDate | startDateShortCode }}</span> - <span
+              itemprop="endDate"
+              itemtype="http://schema.org/endDate"
+              content="{{ experienceItem.data.endDate }}"
+            >{{ experienceItem.data.endDate | endDateShortCode }}</span>
+          </span>
+        </span>
+        <a
+          class="detailLocationAnchor"
+          href="{{ experienceItem.locationMap }}"
+          itemprop="location"
+          itemscope
+          itemtype="http://schema.org/PostalAddress"
+        >
+          <span class="mainDetailIcon"><img src="./assets/icon-location.svg"></span>
+          <span class="mainDetailText">
+            <span itemprop="addressLocality">{{ experienceItem.data.employerCity }}</span>, <span itemprop="addressRegion">{{ experienceItem.data.employerState }}</span>
+          </span>
+        </a>
+      </div>
+      <div class="mainDetailContent experienceDetailContent" itemprop="description">
+        {{ experienceItem.content | safe }}
+      </div>
+    </td>
+  </tr>
+  {%- endfor -%}
+</table>

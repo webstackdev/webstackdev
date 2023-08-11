@@ -1,0 +1,26 @@
+{
+  "name": "webstackdev-readme",
+  "version": "1.0.0",
+  "description": "GitHub profile README generator for Kevin Brown",
+  "author": "kevin@webstackbuilders.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "prebuild": "yarn clean && mkdirp .cache",
+    "build": "yarn prebuild && yarn build:eleventy && yarn copy",
+    "build:eleventy": "npx @11ty/eleventy",
+    "clean": "npx rimraf .cache README.md",
+    "copy": "cp .cache/README.md ./README.md",
+    "watch:eleventy": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "2.0.1",
+    "hint": "7.1.10",
+    "mkdirp": "3.0.1",
+    "rimraf": "5.0.1",
+    "typescript": "5.1.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
