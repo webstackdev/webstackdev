@@ -60,15 +60,11 @@
     "order": 15
   },
   {
-    "name": "Porteus OS",
+    "name": "Theia",
     "order": 16
   },
   {
-    "name": "Theia",
-    "order": 17
-  },
-  {
     "name": "React Native",
-    "order": 18
+    "order": 17
   }
 ]
