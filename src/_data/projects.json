@@ -1,7 +1,12 @@
 [
   {
-    "projectName": "Ladybird CMS",
-    "repoName": "ladybird-cms",
-    "emoji": "🚀"
+    "projectName": "Button Box",
+    "repoName": "button-box",
+    "emoji": "🏎"
+  },
+  {
+    "projectName": "Import-Sort Pragma",
+    "repoName": "import-sort-style-jsxpragma",
+    "emoji": "🔩"
   }
 ]
