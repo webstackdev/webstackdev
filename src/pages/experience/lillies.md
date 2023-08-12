@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 3
 jobTitle: 'System Analyst'
 employerName: 'Eli Lilly'
 employerLogo: lilly.png

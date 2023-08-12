@@ -151,19 +151,6 @@ me.say_hi()
   </tr><tr>
     <td>
       <p align="top">
-        <img src="./assets/employer/lilly.png" alt="employer logo">
-      </p>
-    </td>
-    <td>
-      <b>System Analyst</b><br>
-      Eli Lilly<br>
-      Full-Time • On-site<br>
-      <p><strong>Languages &amp; Technologies:</strong> Microsoft Project, Microsoft Excel, SharePoint, .NET, C#</p>
-<br>
-    </td>
-  </tr><tr>
-    <td>
-      <p align="top">
         <img src="./assets/employer/alento.png" alt="employer logo">
       </p>
     </td>
@@ -172,6 +159,19 @@ me.say_hi()
       Alento, Inc.<br>
       Full-Time • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> OpenStack, Docker, BGP, OSPF, VLAN, Cisco IOS, RHEL, Debian, KVM, QEMU, OpenBSD, Jenkins, BASH, Python, Nagios, Squid, Postfix, OpenLDAP, SOAP, gRPC</p>
+<br>
+    </td>
+  </tr><tr>
+    <td>
+      <p align="top">
+        <img src="./assets/employer/lilly.png" alt="employer logo">
+      </p>
+    </td>
+    <td>
+      <b>System Analyst</b><br>
+      Eli Lilly<br>
+      Full-Time • On-site<br>
+      <p><strong>Languages &amp; Technologies:</strong> Microsoft Project, Microsoft Excel, SharePoint, .NET, C#</p>
 <br>
     </td>
   </tr></table>

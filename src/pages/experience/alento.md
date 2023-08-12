@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 2
 jobTitle: 'Infrastructure Engineer'
 employerName: 'Alento, Inc.'
 employerLogo: alento.png
