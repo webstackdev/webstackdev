@@ -1,6 +1,6 @@
 [![Banner](./assets/banner.png)](https://webstackbuilders.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006DCB&width=455&lines=Fullstack+Freelance+Software+Developer" alt="Fullstack Freelance Software Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006DCB&width=455&lines=Fullstack+Freelance+Software+Developer" alt="Platform Engineering and Developer Productivity Tooling" />
 
 ```python
 #!/usr/bin/python
@@ -13,8 +13,8 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.desc = """
           Experienced freelance developer with a strong focus on improving developer
-          experience and delivering software efficiently. Highly skilled in various
-          programming languages and technologies."""
+          experience and delivering software efficiently. Highly skilled in a wide
+          scope of programming languages and technologies."""
 
     def say_hi(self):
         print(self.desc)
@@ -295,17 +295,18 @@ See [here](https://webstackdev.github.io) for my detailed resume.
   <br>
   <summary><b>⚙️ Work Environment</b></summary>
   <ul>
-  <li><b>OS:</b> Ubuntu 22.04 with VFIO (Windows 11 in VM)</li>
-  <li><b>Workstation:</b> AMD 5700X X570 64 GB</li>
+  <li><b>OS:</b> Ubuntu 24.04 with VFIO (Windows 11 in VM)</li>
+  <li><b>Workstation:</b> AMD 5950X X570 128 GB</li>
   <li><b>Desktop:</b> KDE 5.25, dual 4K monitor setup (32&quot; and 27&quot;)</li>
   <li><b>Channels:</b> Slack, Discord, Zoom, Viber, WhatsApp, Skype, Signal, Telegram, POTS</li>
   <li><b>Code Editor:</b> VSCode, Android Studio, and XCode</li>
-  <li><b>Opinions:</b> Vim, two spaces, no semicolons, comments for docgen, patterns matter</li>
+  <li><b>Opinions:</b> Vim, no semicolons, patterns matter</li>
 </ul>
 </details>
 <details>
   <br>
   <summary><b>🔒 PGP Public Key</b></summary>
+  <br>
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 mQGNBGKt7yMBDADZp/bbs+qDPZwQmJ4pvOZv420LgYMJOrR1ZYmdPKy0rySUcdBU
 R62b0dWt0zQUQVOTyvvWHVpUkf8PXCwth0q5vvIr5U+X1Vd8/hTHF2S+6RDq05cj
