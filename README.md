@@ -142,6 +142,13 @@ me.say_hi()
       </p>
     </td>
     <td>
+      <b>Platform Engineer</b><br>
+      Webstack Builders<br>
+      Freelance • Remote<br>
+      <p><strong>Languages &amp; Technologies:</strong> Azure, AWS, OpenStack, Kubernetes, Terraform, Helm, Python, GoLang</p>
+<br>
+    </td>
+    <td>
       <b>Software Developer</b><br>
       Webstack Builders<br>
       Freelance • Remote<br>
