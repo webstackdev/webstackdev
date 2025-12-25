@@ -135,7 +135,8 @@ me.say_hi()
 
 ## Work Experience
 
-<table><tr>
+<table>
+  <tr>
     <td>
       <p align="top">
         <img src="./assets/employer/webstackbuilders.png" alt="employer logo">
@@ -146,16 +147,24 @@ me.say_hi()
       Webstack Builders<br>
       Freelance • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> Azure, AWS, OpenStack, Kubernetes, Terraform, Helm, Python, GoLang</p>
-<br>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="top">
+        <img src="./assets/employer/webstackbuilders.png" alt="employer logo">
+      </p>
     </td>
     <td>
       <b>Software Developer</b><br>
       Webstack Builders<br>
       Freelance • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> TypeScript, Node, React, Express, Laravel, AWS, React Native, Gatsby, Next, Redwood, Storybook, Mocha, Jest, Playwright, GraphQL, REST, Sanity, Contentful, Drupal, Node native extensions (Gyp / C++ / libuv / V8)</p>
-<br>
+      <br>
     </td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td>
       <p align="top">
         <img src="./assets/employer/alento.png" alt="employer logo">
@@ -166,9 +175,10 @@ me.say_hi()
       Alento, Inc.<br>
       Full-Time • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> OpenStack, Docker, BGP, OSPF, VLAN, Cisco IOS, RHEL, Debian, KVM, QEMU, OpenBSD, Jenkins, BASH, Python, Nagios, Squid, Postfix, OpenLDAP, SOAP, gRPC</p>
-<br>
+      <br>
     </td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td>
       <p align="top">
         <img src="./assets/employer/lilly.png" alt="employer logo">
@@ -179,9 +189,10 @@ me.say_hi()
       Eli Lilly<br>
       Full-Time • On-site<br>
       <p><strong>Languages &amp; Technologies:</strong> Microsoft Project, Microsoft Excel, SharePoint, .NET, C#</p>
-<br>
+      <br>
     </td>
-  </tr></table>
+  </tr>
+</table>
 
 See [here](https://webstackdev.github.io) for my detailed resume.
 
