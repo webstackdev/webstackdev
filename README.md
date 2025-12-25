@@ -1,6 +1,6 @@
 [![Banner](./assets/banner.png)](https://webstackbuilders.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006DCB&width=455&lines=Fullstack+Freelance+Software+Developer" alt="Platform Engineering and Developer Productivity Tooling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006DCB&width=455&lines=Platform+Engineering+and+Developer+Productivity+Tooling" alt="Platform Engineering and Developer Productivity Tooling" />
 
 ```python
 #!/usr/bin/python
