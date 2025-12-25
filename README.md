@@ -148,15 +148,6 @@ me.say_hi()
       Freelance • Remote<br>
       <p><strong>Languages &amp; Technologies:</strong> Azure, AWS, OpenStack, Kubernetes, Terraform, Helm, Python, GoLang</p>
       <br>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="top">
-        <img src="./assets/employer/webstackbuilders.png" alt="employer logo">
-      </p>
-    </td>
-    <td>
       <b>Software Developer</b><br>
       Webstack Builders<br>
       Freelance • Remote<br>
