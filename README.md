@@ -143,6 +143,7 @@ me.say_hi()
       </p>
     </td>
     <td>
+      <br>
       <b>Platform Engineer</b><br>
       Webstack Builders<br>
       Freelance • Remote<br>
@@ -162,6 +163,7 @@ me.say_hi()
       </p>
     </td>
     <td>
+      <br>
       <b>Infrastructure Engineer</b><br>
       Alento, Inc.<br>
       Full-Time • Remote<br>
@@ -176,6 +178,7 @@ me.say_hi()
       </p>
     </td>
     <td>
+      <br>
       <b>System Analyst</b><br>
       Eli Lilly<br>
       Full-Time • On-site<br>
